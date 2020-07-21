@@ -25,8 +25,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 
 <p align="center">
 <a href= "https://github.com/ChinaArJun"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= ""><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://www.linkedin.com/in/chinaarjun/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "http://blog.zhequtao.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
 
