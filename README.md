@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![](https://github.com/ChinaArJun/ChinaArJun/blob/master/asset/header_white_.png.png)
+![](https://github.com/ChinaArJun/ChinaArJun/blob/master/asset/header_white_.png)
 
 I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
 
