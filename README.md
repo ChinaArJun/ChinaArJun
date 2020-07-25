@@ -14,8 +14,8 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
   <summary>Some other facts about me-e-e</summary>
   <br>
 
-* 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.
-* 🍎   Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
+* 🎉   Professional Membership 
+* 🍎   Apple Developer.👨🏻‍💻 
 
 </details>
   
