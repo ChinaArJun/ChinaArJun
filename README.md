@@ -6,7 +6,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 
 * 🧐   Interested in full stack. Recent focus on backend.
 * 💼   Senior Back End Engineer at CNZZ Group.
-* 💬   Do read my resume here: [Resume](www.linkedin.com/in/chinaarjun)
+* 💬   Do read my resume here: [Resume](https://www.linkedin.com/in/chinaarjun/)
 * 📚   Reading more about Apple, Harry Potter and how the computer works.
 * 💻   With 4 years' computer science and technology education and 5 years' development working experience.
 
@@ -14,8 +14,8 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
   <summary>Some other facts about me-e-e</summary>
   <br>
 
-* 🎉   Professional Membership 
-* 🍎   Apple Developer.👨🏻‍💻 
+* 🎉   Golang Developer.
+* 🍎   Apple Developer.
 
 </details>
   
