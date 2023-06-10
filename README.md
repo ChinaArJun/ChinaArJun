@@ -7,7 +7,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 * 💼   Senior Back End Engineer.
 * 💬   Do read my resume here: [Resume](https://www.linkedin.com/in/chinaarjun/)
 * 📚   Reading more about Apple, computer works.
-* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
+* 💻   With many years' computer science and technology education and many years' development working experience.
 
 <details>
   <summary>ArJun title</summary>
